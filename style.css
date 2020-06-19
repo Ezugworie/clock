@@ -1,0 +1,29 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+.align-center{
+    text-align: center;
+}
+
+.center-div{
+    display: inline-block;
+}
+
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.my-card-content{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 80px;
+}
+
+.my-card-hearder{
+    font-family: 'Montserrat', sans-serif;
+
+}
